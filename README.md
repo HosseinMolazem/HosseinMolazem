@@ -59,10 +59,15 @@ My goal is to enhance my skills further and ultimately establish myself as a **f
 
 
 ### Connect with me
-[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](www.linkedin.com/in/hossein-molazem-a03a0932a
-)
-[![instagram](https://img.icons8.com/color/48/000000/instagram.png)](your_twitter_profile)
-[![telegram](https://img.icons8.com/color/48/000000/telegram.png)](https://t.me/Debugger0)
+<a href="https://www.linkedin.com/in/hossein-molazem-a03a0932a">
+    <img src="https://img.icons8.com/color/48/000000/linkedin.png" alt="LinkedIn"/>
+</a>
+<a href="https://www.instagram.com/debugger__p?igsh=emoxYzhjcnN1a2x6">
+    <img src="https://img.icons8.com/color/48/000000/instagram.png" alt="Instagram"/>
+</a>
+<a href="https://t.me/Debugger0">
+    <img src="https://img.icons8.com/color/48/000000/telegram-app.png" alt="Telegram"/>
+</a>
 
 
 
