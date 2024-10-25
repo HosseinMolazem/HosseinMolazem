@@ -14,6 +14,8 @@ My goal is to enhance my skills further and ultimately establish myself as a **f
 
 ---
 
+
+
 ### Skills
 
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) 
@@ -31,12 +33,36 @@ My goal is to enhance my skills further and ultimately establish myself as a **f
 ---
 
 
+### Projects
+
+- [Project Name](https://hosseinmolazem.github.io/Resturant/) - A brief description of what the project does.
+
+
+
+
+> "The only way to do great work is to love what you do." - Steve Jobs
+
+
+
+
+
+
+
+
 
 <div >
 <img src="https://github-readme-stats.vercel.app/api?username=HosseinMolazem&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=HosseinMolazem&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 <img src="https://streak-stats.demolab.com?user=HosseinMolazem&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
+
+
+
+### Connect with me
+[![LinkedIn](https://img.icons8.com/color/48/000000/linkedin.png)](www.linkedin.com/in/hossein-molazem-a03a0932a
+)
+[![instagram](https://img.icons8.com/color/48/000000/instagram.png)](your_twitter_profile)
+[![telegram](https://img.icons8.com/color/48/000000/telegram.png)](https://t.me/Debugger0)
 
 
 
