@@ -12,10 +12,8 @@ For the past **three years**, I have been focused on learning and gaining experi
 
 My goal is to enhance my skills further and ultimately establish myself as a **full-stack developer**.
 
----
 
-
-### Skills
+### My Skills
 
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) 
 ![React](https://img.icons8.com/color/48/000000/react-native.png) 
@@ -59,7 +57,7 @@ My goal is to enhance my skills further and ultimately establish myself as a **f
 
 # I hope you enjoy my project!
 
-# Visit the Project  👉  [Resturant](https://hosseinmolazem.github.io/ClothingShop/)
+# Visit the Project  👉  [ClothingShop](https://hosseinmolazem.github.io/ClothingShop/)
 
 
 ![](https://github.com/HosseinMolazem/ClothingShop/blob/master/images/s1.jpg)
@@ -77,7 +75,7 @@ My goal is to enhance my skills further and ultimately establish myself as a **f
 # This is a calculator project I built using
 # HTML, Tailwind, React, and PWA. 
 # It can be installed as a mobile app and even used offline. I hope you enjoy my project!
-# Visit the Project  👉  [Resturant](https://hosseinmolazem.github.io/Calculator/)
+# Visit the Project  👉  [Calculator](https://hosseinmolazem.github.io/Calculator/)
 
  ![](https://github.com/HosseinMolazem/calculator/blob/master/image/projet.png)
 
@@ -114,9 +112,7 @@ My goal is to enhance my skills further and ultimately establish myself as a **f
 # I hope you enjoy my project!
 #  visit the project  👉  [CarGallery](https://hosseinmolazem.github.io/CarGallery/)
 
-<a href="https://hosseinmolazem.github.io/CarGallery/" target="_blank">
-[    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Link_icon.svg/1024px-Link_icon.svg.png" alt="Link" style="width: 30px; height: 30px;">](https://simpleicons.org/icons/github.svg)
-</a>
+
 
 
 
