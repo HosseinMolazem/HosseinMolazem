@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hossein Malazem
 
-<!--
-**HosseinMolazem/HosseinMolazem** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## Passionate Front-End Developer
 
-Here are some ideas to get you started:
+Hello! I'm **Hossein Malazem**, a passionate individual with a deep love for coding and a strong commitment to my work.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About Me
+
+For the past **three years**, I have been focused on learning and gaining experience in **front-end development**. Throughout this time, I have completed numerous projects, both individually and as part of a team.
+
+### My Goals
+
+My goal is to enhance my skills further and ultimately establish myself as a **full-stack developer**.
+
+---
+
+Feel free to connect with me!
