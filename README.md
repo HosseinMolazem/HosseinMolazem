@@ -35,9 +35,33 @@ My goal is to enhance my skills further and ultimately establish myself as a **f
 
 ### Projects
 
-- [Project Name](https://hosseinmolazem.github.io/Resturant/) - A brief description of what the project does.
+- [Resturant](https://hosseinmolazem.github.io/Resturant/) - A brief description of what the project does.
 
 
+ ![](https://github.com/HosseinMolazem/Resturant/blob/master/src/img/screenshot-resepilist2.jpg)
+
+
+---
+
+- [ClothingShop
+](https://hosseinmolazem.github.io/ClothingShop/) - A brief description of what the project does.
+
+![](https://github.com/HosseinMolazem/ClothingShop/blob/master/images/s1.jpg)
+
+
+---
+
+
+- [Calculator
+](https://hosseinmolazem.github.io/Calculator/) - A brief description of what the project does.
+
+ ![](https://github.com/HosseinMolazem/calculator/blob/master/image/projet.png)
+
+
+
+
+
+---
 
 
 > "The only way to do great work is to love what you do." - Steve Jobs
@@ -56,7 +80,7 @@ My goal is to enhance my skills further and ultimately establish myself as a **f
 <img src="https://streak-stats.demolab.com?user=HosseinMolazem&locale=en&mode=weekly&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
 </div>
 
-
+---
 
 ### Connect with me
 <a href="https://www.linkedin.com/in/hossein-molazem-a03a0932a">
