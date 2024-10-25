@@ -15,7 +15,6 @@ My goal is to enhance my skills further and ultimately establish myself as a **f
 ---
 
 
-
 ### Skills
 
 ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) 
@@ -35,7 +34,13 @@ My goal is to enhance my skills further and ultimately establish myself as a **f
 
 ### Projects
 
-- [Resturant](https://hosseinmolazem.github.io/Resturant/) - A brief description of what the project does.
+
+# This is my third project. This project is a ResepiList.
+# This project is built using react.js and tailwind,API.
+# I hope you enjoy my project.
+# Visit the Project  👉  [Resturant](https://hosseinmolazem.github.io/Resturant/)
+
+
 
 
  ![](https://github.com/HosseinMolazem/Resturant/blob/master/src/img/screenshot-resepilist2.jpg)
@@ -43,10 +48,19 @@ My goal is to enhance my skills further and ultimately establish myself as a **f
 
 ---
 <br/>
-<br/>
 
-- [ClothingShop
-](https://hosseinmolazem.github.io/ClothingShop/) - A brief description of what the project does.
+# This is my seventh project that I'm uploading to GitHub.
+
+# Project description:
+
+# This is a website project I built using HTML, Css, Bootstrap and jquery.
+
+# this website is responsive.
+
+# I hope you enjoy my project!
+
+# Visit the Project  👉  [Resturant](https://hosseinmolazem.github.io/ClothingShop/)
+
 
 ![](https://github.com/HosseinMolazem/ClothingShop/blob/master/images/s1.jpg)
 
@@ -58,8 +72,12 @@ My goal is to enhance my skills further and ultimately establish myself as a **f
 
 
 
-- [Calculator
-](https://hosseinmolazem.github.io/Calculator/) - A brief description of what the project does.
+# This is my Second project that I'm uploading to GitHub.
+# Project description:
+# This is a calculator project I built using
+# HTML, Tailwind, React, and PWA. 
+# It can be installed as a mobile app and even used offline. I hope you enjoy my project!
+# Visit the Project  👉  [Resturant](https://hosseinmolazem.github.io/Calculator/)
 
  ![](https://github.com/HosseinMolazem/calculator/blob/master/image/projet.png)
 
