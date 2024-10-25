@@ -20,7 +20,6 @@ My goal is to enhance my skills further and ultimately establish myself as a **f
 ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) 
 ![CSS3](https://img.icons8.com/color/48/000000/css3.png) 
 ![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) 
-![jQuery](https://img.icons8.com/color/48/000000/jquery.png) 
 ![Git](https://img.icons8.com/color/48/000000/git.png) 
 ![Python](https://img.icons8.com/color/48/000000/python.png) 
 ![Tailwind CSS](https://img.icons8.com/color/48/000000/tailwindcss.png) 
@@ -30,8 +29,9 @@ My goal is to enhance my skills further and ultimately establish myself as a **f
 ---
 
 
-### Projects
+# Projects
 
+<br/>
 
 # This is my third project. This project is a ResepiList.
 # This project is built using react.js and tailwind,API.
