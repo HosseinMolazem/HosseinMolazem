@@ -79,12 +79,15 @@ My goal is to enhance my skills further and ultimately establish myself as a **f
 
 ---
 
-- [CarGallery
-](https://hosseinmolazem.github.io/CarGallery/) - This is my fifth project that I'm uploading to GitHub.
-# Project description:
-# This is a website project I built using HTML, Css, js and fullpage.js.
-# this website is responsive.
-# I hope you enjoy my project!
+# This is my fifth project that I'm uploading to GitHub.
+### Project description:
+ This is a website project I built using HTML, Css, js and fullpage.js.
+ this website is responsive.
+ I hope you enjoy my project!
+ visit the project  >   - [CarGallery
+](https://hosseinmolazem.github.io/CarGallery/) -
+
+
 
 ![](https://github.com/HosseinMolazem/CarGallery/blob/master/images/s1.jpg)
 
