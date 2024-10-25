@@ -42,6 +42,8 @@ My goal is to enhance my skills further and ultimately establish myself as a **f
 
 
 ---
+<br/>
+<br/>
 
 - [ClothingShop
 ](https://hosseinmolazem.github.io/ClothingShop/) - A brief description of what the project does.
@@ -52,8 +54,7 @@ My goal is to enhance my skills further and ultimately establish myself as a **f
 ---
 <br/>
 <br/>
-<br/>
-<br/>
+
 
 
 
@@ -67,7 +68,8 @@ My goal is to enhance my skills further and ultimately establish myself as a **f
 
 
 ---
-
+<br/>
+<br/>
 
 # This is my  the ninth project that I'm uploading to GitHub.
 # Project description:
@@ -84,7 +86,8 @@ My goal is to enhance my skills further and ultimately establish myself as a **f
 
 
 ---
----
+<br/>
+<br/>
 
 # This is my fifth project that I'm uploading to GitHub.
 # Project description:
