@@ -16,11 +16,17 @@ My goal is to enhance my skills further and ultimately establish myself as a **f
 
 ### Skills
 
-- ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) HTML5
-- ![CSS3](https://img.icons8.com/color/48/000000/css3.png) CSS3
-- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript
-- ![React](https://img.icons8.com/color/48/000000/react-native.png) React
-- ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) Node.js
+![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) 
+![React](https://img.icons8.com/color/48/000000/react-native.png) 
+![HTML5](https://img.icons8.com/color/48/000000/html-5.png) 
+![CSS3](https://img.icons8.com/color/48/000000/css3.png) 
+![Bootstrap](https://img.icons8.com/color/48/000000/bootstrap.png) 
+![jQuery](https://img.icons8.com/color/48/000000/jquery.png) 
+![Git](https://img.icons8.com/color/48/000000/git.png) 
+![Python](https://img.icons8.com/color/48/000000/python.png) 
+![Tailwind CSS](https://img.icons8.com/color/48/000000/tailwindcss.png) 
+![MySQL](https://img.icons8.com/color/48/000000/mysql.png) 
+
 
 
 
