@@ -14,8 +14,13 @@ My goal is to enhance my skills further and ultimately establish myself as a **f
 
 ---
 
-### My Skills
+### Skills
 
+- ![HTML5](https://img.icons8.com/color/48/000000/html-5.png) HTML5
+- ![CSS3](https://img.icons8.com/color/48/000000/css3.png) CSS3
+- ![JavaScript](https://img.icons8.com/color/48/000000/javascript.png) JavaScript
+- ![React](https://img.icons8.com/color/48/000000/react-native.png) React
+- ![Node.js](https://img.icons8.com/color/48/000000/nodejs.png) Node.js
 
 
 
