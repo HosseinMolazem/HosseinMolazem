@@ -87,7 +87,7 @@ My goal is to enhance my skills further and ultimately establish myself as a **f
 #  visit the project 
 
 <a href="https://hosseinmolazem.github.io/CarGallery/" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Link_icon.svg/1024px-Link_icon.svg.png" alt="Link" style="width: 30px; height: 30px;">
+[    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Link_icon.svg/1024px-Link_icon.svg.png" alt="Link" style="width: 30px; height: 30px;">](https://simpleicons.org/icons/github.svg)
 </a>
 
 
