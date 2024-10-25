@@ -1,4 +1,4 @@
-# Hossein Malazem
+# Hossein Molazem
 
 ## Passionate Front-End Developer
 
@@ -30,8 +30,6 @@ My goal is to enhance my skills further and ultimately establish myself as a **f
 
 
 # Projects
-
-<br/>
 
 # This is my third project. This project is a ResepiList.
 # This project is built using react.js and tailwind,API.
