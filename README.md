@@ -70,7 +70,7 @@ My goal is to enhance my skills further and ultimately establish myself as a **f
 # this website is responsive.
 # I hope you enjoy my project!
 
-# Visit the Project   [azkivam](https://hosseinmolazem.github.io/azkivam/)
+# Visit the Project  👉  [azkivam](https://hosseinmolazem.github.io/azkivam/)
 
 
 ![](https://github.com/HosseinMolazem/azkivam/blob/master/img/img1o.png)
@@ -78,7 +78,7 @@ My goal is to enhance my skills further and ultimately establish myself as a **f
 
 
 
-
+---
 ---
 
 # This is my fifth project that I'm uploading to GitHub.
@@ -86,7 +86,7 @@ My goal is to enhance my skills further and ultimately establish myself as a **f
 # This is a website project I built using HTML, Css, js and fullpage.js.
 # this website is responsive.
 # I hope you enjoy my project!
-#  visit the project 
+#  visit the project  👉  [CarGallery](https://hosseinmolazem.github.io/CarGallery/)
 
 <a href="https://hosseinmolazem.github.io/CarGallery/" target="_blank">
 [    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Link_icon.svg/1024px-Link_icon.svg.png" alt="Link" style="width: 30px; height: 30px;">](https://simpleicons.org/icons/github.svg)
