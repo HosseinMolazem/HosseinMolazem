@@ -84,8 +84,11 @@ My goal is to enhance my skills further and ultimately establish myself as a **f
 # This is a website project I built using HTML, Css, js and fullpage.js.
 # this website is responsive.
 # I hope you enjoy my project!
-#  visit the project  >   
-[CarGallery](https://hosseinmolazem.github.io/CarGallery/) -
+#  visit the project 
+
+<a href="https://hosseinmolazem.github.io/CarGallery/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/Link_icon.svg/1024px-Link_icon.svg.png" alt="Link" style="width: 30px; height: 30px;">
+</a>
 
 
 
