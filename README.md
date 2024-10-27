@@ -2,7 +2,7 @@
 
 ## Passionate Front-End Developer
 
-Hello! I'm **Hossein Malazem**, a passionate individual with a deep love for coding and a strong commitment to my work.
+Hello! I'm **Hossein Molazem**, a passionate individual with a deep love for coding and a strong commitment to my work.
 
 ### About Me
 
